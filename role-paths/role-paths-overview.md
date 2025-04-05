@@ -7,71 +7,33 @@ Click on a role below to learn more about what it involves, skills needed, tools
 ---
 
 ## 🔹 Defensive / Blue Team Roles
-- [SOC Analyst](./soc-analyst.md)  
-  First line of defense — monitoring alerts and responding to threats.
-
-- [Incident Responder](./incident-responder.md)  
-  Handles real-time attacks and coordinates breach recovery.
-
-- [Threat Hunter](./threat-hunter.md)  
-  Proactively searches for undetected threats in systems.
-
-- [Digital Forensics Analyst](./forensics-analyst.md)  
-  Investigates and collects evidence from cyber incidents.
+- [SOC Analyst](./SOC-analyst.md)
+- [Incident Responder](./incident-responsder.md)
+- [Threat Hunter](./threat-hunter.md)
+- [Digital Forensics Analyst](./digital-forensics.md)
 
 ---
 
 ## 🔹 Strategic / GRC Roles
-- [GRC Analyst](./grc-analyst.md)  
-  Builds policies, manages risk, and ensures compliance.
-
-- [Cybersecurity Risk Analyst](./risk-analyst.md)  
-  Identifies and analyzes risks to systems and data.
-
-- [Information Security Analyst](./info-sec-analyst.md)  
-  Implements and monitors security measures across IT.
-
-- [Security Auditor](./security-auditor.md)  
-  Conducts assessments and audits against frameworks (NIST, HIPAA, etc.)
+- [GRC Analyst](./grc-analyst.md)
+- [Cybersecurity Risk Analyst](./risk-analyst.md)
+- [Information Security Analyst](./info-sec-analyst.md)
+- [Security Auditor](./security-auditor.md)
 
 ---
 
 ## 🔹 Cloud & Infrastructure Security
-- [Cloud Security Engineer](./cloud-security.md)  
-  Secures cloud environments like AWS, Azure, or GCP.
-
-- [Security Architect](./security-architect.md)  
-  Designs secure systems and network structures.
-
-- [DevSecOps Engineer](./devsecops.md)  
-  Integrates security into DevOps pipelines.
-
-- [IAM Specialist](./iam-specialist.md)  
-  Manages digital identities, permissions, and access.
+- [Cloud Security Engineer](./cloud-security-engineer.md)
+- [IAM Specialist](./iam-specialist.md)
+- [DevSecOps Engineer](./dev-sec-ops.md)
+- [Security Architect](./security-architect.md)
 
 ---
 
 ## 🔹 Offensive / Red Team Roles
-- [Penetration Tester](./pentester.md)  
-  Simulates attacks to uncover vulnerabilities.
-
-- [Red Teamer](./red-teamer.md)  
-  Emulates real-world threat actors using advanced tactics.
-
-- [Vulnerability Analyst](./vulnerability-analyst.md)  
-  Scans and assesses systems for weaknesses.
-
----
-
-## 🔹 Application & Data Security
-- [Application Security Engineer](./appsec-engineer.md)  
-  Secures software development lifecycle.
-
-- [Data Privacy Analyst](./data-privacy.md)  
-  Focuses on user data rights and compliance (GDPR, CCPA).
-
-- [DLP Specialist](./dlp-specialist.md)  
-  Protects sensitive data from unauthorized access or leaks.
+- [Penetration Tester](./ethical-hacking.md)
+- [Red Teamer](./red-team.md)
+- [Vulnerability Analyst](./vulnerability-analyst.md)
 
 ---
 
