@@ -59,10 +59,3 @@ Whether you're just starting out, switching careers, or trying to level up, this
 
 9. **Apply for Internships or Entry Roles**  
    Look for titles like "IT Support," "Security Analyst I," "Risk Analyst," or "Compliance Intern."
-
-10. **Take Care of Your Mental Health** 💙  
-   Stay grounded, journal, and follow our [mental health tips](./mental-health-tips.md).
-
----
-
-> Built with 💙 by Olivia Athelus — Masters in Cybersecurity 
